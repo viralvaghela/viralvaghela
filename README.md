@@ -1,18 +1,11 @@
 ### Hi there 👋
 
-<!--
-**viralvaghela/viralvaghela** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on Personal project(Instafy App)
+- 🌱 I’m currently learning Flutter.
+- 👯 I’m looking to collaborate on Instagram
+- 💬 Ask me about java and flutter.
+- 📫 How to reach me: [Instagram - @coding_Boy_](https://instagram.com/coding_boy_) 
+- 😄 Pronouns: He/His
 
-Here are some ideas to get you started:
-
- 🔭 I’m currently working on Instafy Flutter app
- 🌱 I’m currently learning flutter
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 <img src="https://github-readme-stats.vercel.app/api?username=viralvaghela&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919">
