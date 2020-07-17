@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Flutter.
 - 👯 I’m looking to collaborate on Instagram
 - 💬 Ask me about java and flutter.
-- 📫 How to reach me: [Instagram - @coding_Boy_](https://instagram.com/coding_boy_) 
+- 📫 How to reach me: [Instagram - @coding_Boy_](https://instagram.com/coding_boy_) , [Twitter - @MrCodingBoy](https://twitter.com/mrcodingboy)
 - 😄 Pronouns: He/His
 
 
