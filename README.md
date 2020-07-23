@@ -18,7 +18,7 @@
    <a href="https://stackoverflow.com/users/13090648/coding-boy">
     <img align="left" alt="viral's stackoverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />
   </a>
-    <br>
+    
 
 - 🔭 I’m currently working on Personal project(Instafy App)
 - 🌱 I’m currently learning Flutter.
