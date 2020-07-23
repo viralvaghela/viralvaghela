@@ -19,7 +19,7 @@
     <img align="left" alt="viral's stackoverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />
   </a>
     
-
+<br><br><br>
 - 🔭 I’m currently working on Personal project(Instafy App)
 - 🌱 I’m currently learning Flutter.
 - 👯 I’m looking to collaborate on Instagram
