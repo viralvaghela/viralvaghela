@@ -21,7 +21,7 @@
   </a>
     
 <br><br>
-- 🔭 I’m currently working on Personal project(Instafy App)
+- 🔭 I’m currently working on Personal project
 - 🌱 I’m currently learning Flutter.
 - 👯 I’m looking to collaborate on Instagram
 - 💬 Ask me about java and flutter.
