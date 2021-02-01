@@ -18,7 +18,7 @@ When I'm not developing and building things, you can find me on instagram page, 
 
 <img src="https://github-readme-stats.vercel.app/api?username=viralvaghela&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919">
 
-### 📫 Where to find me
+## 📫 Where to find me
 - [Twitter](https://twitter.com/MrCodingBoy) 🐤
 - [Instagram](https://instagram.com/coding_boy_) 😎
 - [LinkedIn](https://www.linkedin.com/in/viralv/) 👨💼
