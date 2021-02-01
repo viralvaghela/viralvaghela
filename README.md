@@ -13,7 +13,7 @@
 
 <p align="center">I'm a 19 y/o Developer,CSE Student, Content Creator, Bug Hunter, Tech Geek from India.
 I'm in a 2nd year student at GTU .
-I currently passionate about java, flutter , and backend development and finding security vulnerabilities in websites.
+I am passionate about java, flutter, and backend development and finding security vulnerabilities in websites.
 When I'm not developing and building things, you can find me on instagram page, writing an article on one of my blog, watching tech videos and searching random stuff on internet,. But most of my days are spent working on projects(my personal projects and my clients)</p>
   
 
@@ -26,6 +26,21 @@ When I'm not developing and building things, you can find me on instagram page, 
 
 
 <img src="https://github-readme-stats.vercel.app/api?username=viralvaghela&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919">
+
+### 📰 Blog Posts
+<!-- BLOG-POST-LIST:START -->
+- [How to create a Telegram bot using java?
+](https://codingboy.in/how-to-create-a-telegram-bot-using-java/)
+- [What is Flutter? Why You Should Learn it in 2021?
+](https://vaghelaviral.medium.com/what-is-flutter-why-you-should-learn-it-in-2021-43bd03dade34)
+
+### 💻 What i am currently/done working on
+- [Telegram Bot](https://github.com/viralvaghela/Telegram-Bot-Array-Index-Out-Of-Bound)  🚀
+- [Flutter Insta Package](https://pub.dev/packages/flutter_insta)  🚀
+- Medium Clone app  🚀 *coming soon*
+- [Click here for other projects](https://github.com/viralvaghela?tab=repositories)
+
+
 
 ## 📫 Where to find me
 - [Twitter](https://twitter.com/MrCodingBoy) 🐤
