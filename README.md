@@ -19,7 +19,11 @@
    <a href="https://stackoverflow.com/users/13090648/coding-boy">
     <img align="left" alt="viral's stackoverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />
   </a>
-
+<h2 align="center">Hello there! My name is Viral Vaghela. 👋🤓</h2>
+<p align="center">I'm a 19 y/o Developer,CSE Student, Content Creator, Bug Hunter, Tech Geek from India.
+I'm a 2nd yeast CSE student at GTU .
+I currently passionate about java, flutter , and backend developemnt and finding security vulnerabilities in websites.
+When I'm not developing and building things, you can find me on instagram page, writing an article on one of my blog, watching tech videos and searching random stuff on internet,. But most of my days are spent working on projects(my personal projects and my clients)/p>
   
 <br><br>
 - 🔭 I’m currently working on (wasting my time some where idk whats going on in my life)
