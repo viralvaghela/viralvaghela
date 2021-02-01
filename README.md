@@ -1,5 +1,5 @@
 ![Hello](Hello.gif)
-## Viral ![](https://komarev.com/ghpvc/?username=viralvaghela)
+[](https://komarev.com/ghpvc/?username=viralvaghela)
 
 <h2 align="center">Hello there! My name is Viral Vaghela. 👋🤓</h2>
 <p align="center">I'm a 19 y/o Developer,CSE Student, Content Creator, Bug Hunter, Tech Geek from India.
