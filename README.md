@@ -32,6 +32,18 @@
 
 
 <img src="https://github-readme-stats.vercel.app/api?username=viralvaghela&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919">
+
+### 📫 Where to find me
+- [Twitter](https://twitter.com/MrCodingBoy) 🐤
+- [Instagram](https://instagram.com/coding_boy_) 😎
+- [LinkedIn](https://www.linkedin.com/in/viralv/) 👨💼
+- [Website](https://viralvaghela.github.io) 😏🔗
+- [Blog](https://codingboy.in) 🤓💻
+- [Medium](https://vaghelaviral.medium.com/) 😏
+- [Dev.to](https://dev.to/viralvaghela) 🔨✒
+- [Stackoverflow](https://stackoverflow.com/users/13090648/viral) 💌
+- [BugBounty Profile](https://www.openbugbounty.org/researchers/Codingboy/)🐞
+
 ## Stargazers
 
 [![Stargazers repo roster for @viralvaghela/viralvaghela](https://reporoster.com/stars/viralvaghela/viralvaghela)](https://github.com/viralvaghela/viralvaghela/stargazers)
