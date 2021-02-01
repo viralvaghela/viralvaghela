@@ -1,7 +1,16 @@
-![Hello](Hello.gif)
 [](https://komarev.com/ghpvc/?username=viralvaghela)
 
-<h2 align="center">Hello there! My name is Viral Vaghela. 👋🤓</h2>
+
+<h2 align="center">My name is Viral Vaghela. 👋🤓</h2>
+
+<p align='center'>
+<a href="https://dev.to/viralvaghela"><img height="30" src="icons/dev.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://twitter.com/mrcodingboy"><img height="30" src="icons/twitter.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://instagram.com/coding_boy_"><img height="30" src="icons/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
+<a href="https://www.buymeacoffee.com/codingboy"><img height="30" src="icons/by-me-a-coffee.png?raw=true"></a>
+<a href="https://www.linkedin.com/in/viralv/"><img height="30" src="icons/linkedin.png?raw=true"></a>
+</p>
+
 <p align="center">I'm a 19 y/o Developer,CSE Student, Content Creator, Bug Hunter, Tech Geek from India.
 I'm a 2nd yeast CSE student at GTU .
 I currently passionate about java, flutter , and backend developemnt and finding security vulnerabilities in websites.
