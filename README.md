@@ -34,4 +34,4 @@
 <img src="https://github-readme-stats.vercel.app/api?username=viralvaghela&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919">
 ## Stargazers
 
-[![Stargazers repo roster for @waylonwalker/waylonwalker](https://reporoster.com/stars/waylonwalker/waylonwalker)](https://github.com/waylonwalker/waylonwalker/stargazers)
+[![Stargazers repo roster for @viralvaghela/viralvaghela](https://reporoster.com/stars/viralvaghela/viralvaghela)](https://github.com/viralvaghela/viralvaghela/stargazers)
