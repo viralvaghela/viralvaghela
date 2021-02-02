@@ -17,7 +17,7 @@ I am passionate about java, flutter, and backend development and finding securit
 When I'm not developing and building things, you can find me on instagram page, writing an article on one of my blog, watching tech videos and searching random stuff on internet,. But most of my days are spent working on projects(my personal projects and my clients)</p>
   
 
-- 🔭 I’m currently working on (wasting my time some where idk whats going on in my life)
+- 🔭 I’m currently working on fluttter project.
 - 🌱 I’m currently learning Flutter.
 - 👯 I’m looking to collaborate on Instagram
 - 💬 Ask me about java and flutter.
