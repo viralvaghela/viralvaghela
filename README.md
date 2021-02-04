@@ -56,3 +56,5 @@ When I'm not developing and building things, you can find me on instagram page, 
 ## Stargazers
 
 [![Stargazers repo roster for @viralvaghela/viralvaghela](https://reporoster.com/stars/viralvaghela/viralvaghela)](https://github.com/viralvaghela/viralvaghela/stargazers)
+
+![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=4f0pk3xk5utgsr6kzjpcpcf9k&count=3)
