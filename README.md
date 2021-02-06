@@ -1,4 +1,4 @@
-[](https://komarev.com/ghpvc/?username=viralvaghela)
+![](https://komarev.com/ghpvc/?username=viralvaghela)
 
 
 <h2 align="center">My name is Viral Vaghela. 👋🤓</h2>
