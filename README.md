@@ -14,7 +14,7 @@
 <p align="center">I am a 19 year old Developer,CSE Student, Content Creator, Bug Hunter, Tech Geek from India.
 I'm in a 2nd year student at GTU .
 I am passionate about java, flutter, and backend development and finding security vulnerabilities in websites.
-When I'm not developing and building things, you can find me on instagram page <a href="https://instagram.com/coding_boy_">@Codingboy</a>, writing an article on one of my blog, watching tech videos and searching random stuff on internet,. But most of my days are spent working on my personal projects.</p>
+When I'm not developing and building things, you can find me on instagram page <a href="https://instagram.com/coding_boy_">@Codingboy</a>, writing an article on one of my blog <a href="https://codingboy.in">codingboy.in</a>, watching tech videos and searching random stuff on internet,. But most of my days are spent working on my personal projects.</p>
   
 
 - 🔭 I’m currently working on fluttter project.
