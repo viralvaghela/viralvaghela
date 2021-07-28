@@ -23,8 +23,11 @@ When I'm not developing and building things, you can find me on instagram page <
 - 📫 How to reach me: [Twitter@MrCodingBoy](https://twitter.com/mrcodingboy)
 - 😄 My name is viral (विरल) not Vaayral 
 
-
-<img src="https://github-readme-stats.vercel.app/api?username=viralvaghela&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919">
+<div align="center">
+    <pre>G I T H U B  S T A T S</pre>
+    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=viralvaghela&show_icons=true&include_all_commits=true&title_color=F58529&icon_color=F58529" alt="viral's github stats" /> 
+    <img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=viralvaghela&layout=compact&langs_count=8&title_color=F58529"/>
+</div>
 
 ### 📰 Blog Posts
 <!-- BLOG-POST-LIST:START -->
