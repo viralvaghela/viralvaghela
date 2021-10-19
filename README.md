@@ -20,7 +20,7 @@ When I'm not developing and building things, you can find me on instagram page <
 - 🌱 I’m currently learning Flutter.
 - 👯 I’m looking to collaborate on Instagram
 - 💬 Ask me about java and flutter.
-- 📫 How to reach me: [Twitter@MrCodingBoy](https://twitter.com/mrcodingboy)
+- 📫 How to reach me: [Twitter@viral_codes](https://twitter.com/viral_codes)
 - 😄 My name is viral (विरल) not Vaayral 
 
 <div align="center">
