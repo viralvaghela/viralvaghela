@@ -45,7 +45,7 @@ When I'm not developing and building things, you can find me on instagram page <
 
 
 ## 📫 Where to find me
-- [Twitter](https://twitter.com/MrCodingBoy) 🐤
+- [Twitter](https://twitter.com/viral_codes) 🐤
 - [Leetcode](https://leetcode.com/viralvaghela/)💻👨‍💻
 - [Instagram](https://instagram.com/coding_boy_) 😎
 - [LinkedIn](https://www.linkedin.com/in/viralv/) 👨💼
