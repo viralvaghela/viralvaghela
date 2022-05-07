@@ -54,7 +54,7 @@
 <a href="https://hashnode.com/@viralvaghela" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@viralvaghela" height="30" width="40" /></a>
 <a href="https://medium.com/@vaghelaviral" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@vaghelaviral" height="30" width="40" /></a>
 <!-- <a href="https://www.codechef.com/users/viralvaghela" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="viralvaghela" height="30" width="40" /></a> -->
-<a href="https://www.leetcode.com/viralvaghela" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="viralvaghela" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/vaghelaviral4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="viralvaghela" height="30" width="40" /></a>
 <a href="/https://viralvaghela.github.io/blog/feed.xml" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://viralvaghela.github.io/blog" height="30" width="40" /></a>
 </p>
 
