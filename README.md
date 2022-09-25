@@ -2,12 +2,12 @@
 <img width="100%" height = "250px" src="https://cdn.pixabay.com/photo/2018/01/14/23/12/nature-3082832_1280.jpg" alt="cover" />
 </div>
 
-<h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
+<h1> Hello ! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
 <p align='center'>
 
 ![visitors](https://komarev.com/ghpvc/?username=viralvaghela)
 
-<h3 align="center">A passionate Mobile developer & Tech Geek from India</h3>
+<h3 align="center">A passionate Ethical Hacker, Software Developer & Tech Geek from India</h3>
 
 
 <h2> About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2>
@@ -16,15 +16,15 @@
 
 - 🔭 I’m currently working on My Blog &  Flutter projects.
 
-- 🌱 I’m currently learning Java,Flutter & Cyber Security.
+- 🌱 I’m currently learning about Cyber Security.
 
 - 👯 I’m looking to collaborate on Instagram [@Coding_boy_](https://instagram.com/coding_boy_)
 
-- 💬 Talk to me about Mobile Development, Freelancing Opportunities, Open Source
+- 💬 Talk to me about Cyber Security, Bug hunting, Freelancing Opportunities, Open Source
 
 - 📫 How to reach me **viralvaghela7109@gmail.com** 
 
-- 📄 Know about my experiences [Click Here for Resume](https://drive.google.com/file/d/1eqv0gntt-jJBTl65HWp_dh5fKkz7lR7k/view)
+- 📄 Know about my experiences [Click Here for Resume](https://drive.google.com/file/d/17GIkvXAv7yE4J_LlKSCQHyLohOj59bYF/view?usp=sharing)
 
 - ⚡ Fun fact **My name is V+ral but you can also call me vaayral 😁**
 <p align="left"> <a href="https://twitter.com/viral_codes" target="blank"><img src="https://img.shields.io/twitter/follow/viral_codes?logo=twitter&style=for-the-badge" alt="viral_codes" /></a> </p>
