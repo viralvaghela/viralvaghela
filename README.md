@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning about Cyber Security and Mobile App Security Testing .
 
-- 👯 I’m looking to collaborate on Instagram [@Coding_boy_](https://instagram.com/coding_boy_)
+- 👯 I’m looking to collaborate on Instagram [@viral_codes](https://instagram.com/viral_codes)
 
 - 💬 Talk to me about Cyber Security, Bug hunting, Freelancing Opportunities, Open Source
 
