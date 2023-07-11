@@ -18,7 +18,7 @@
 
 - 💬 Talk to me about Cyber Security, Bug hunting, Freelancing Opportunities, Open Source
 
-- 📫 How to reach me **hello@viralvaghela.com** 
+- 📫 How to reach me [Linkedin](https://www.linkedin.com/in/viralv/)
 
 - 📄 Know about my experiences [Click Here for Resume](https://drive.google.com/file/d/17GIkvXAv7yE4J_LlKSCQHyLohOj59bYF/view?usp=sharing)
 
