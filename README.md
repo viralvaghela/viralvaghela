@@ -20,7 +20,7 @@
 
 - 📫 How to reach me [Linkedin](https://www.linkedin.com/in/viralv/)
 
-- 📄 Know about my experiences [Click Here for Resume](https://drive.google.com/file/d/17GIkvXAv7yE4J_LlKSCQHyLohOj59bYF/view?usp=sharing)
+- 📄 Know about my experiences [Click Here for Resume](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
 - ⚡ Fun fact **My name is V+ral but you can also call me vaayral 😁**
 <p align="left"> <a href="https://twitter.com/256_BYTE" target="blank"><img src="https://img.shields.io/twitter/follow/256_BYTE?logo=twitter&style=for-the-badge" alt="viral_codes" /></a> </p>
