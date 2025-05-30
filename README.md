@@ -70,10 +70,10 @@
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=default)<br>
 
-```
-👋 About This GitHub
+
+### 👋 About This GitHub
 Welcome! Most of the projects you’ll find here are things I’ve built for learning, experimentation, and personal interest—usually during weekends or late nights with coffee ☕.
 
 Unless explicitly mentioned, these projects are not affiliated with my employer or any organization I’m part of. All opinions, code, and ideas shared here are entirely my own.
 
-Thanks for stopping by! 🚀```
+Thanks for stopping by! 🚀
