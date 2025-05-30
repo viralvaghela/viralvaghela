@@ -69,3 +69,11 @@
 <h2> Some Programming Humor for you <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width = '32px'></h2>
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=default)<br>
+
+```
+👋 About This GitHub
+Welcome! Most of the projects you’ll find here are things I’ve built for learning, experimentation, and personal interest—usually during weekends or late nights with coffee ☕.
+
+Unless explicitly mentioned, these projects are not affiliated with my employer or any organization I’m part of. All opinions, code, and ideas shared here are entirely my own.
+
+Thanks for stopping by! 🚀```
