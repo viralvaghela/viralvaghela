@@ -14,11 +14,7 @@
 
 - 🌱 I’m currently learning about Cyber Security and Mobile App Security Testing .
 
-- 👯 I’m looking to collaborate on Instagram [@viral_codes](https://instagram.com/viral_codes)
-
 - 💬 Talk to me about Cyber Security, Bug hunting, Freelancing Opportunities, Open Source
-
-- 📫 How to reach me [Linkedin](https://www.linkedin.com/in/viralv/)
 
 - 📄 Know about my experiences [Click Here for Resume](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
@@ -40,8 +36,7 @@
 <a href= https://github.com/viralvaghela?tab=repositories&q=&type=&language=github&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg'> </a>
 <a href= https://github.com/viralvaghela?tab=repositories&q=&type=&language=python&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
 
-<h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
-<a href = 'https://www.linkedin.com/in/viralv'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a>
+
 <a href = 'https://www.twitter.com/viral_vaghela_'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a>
 <a href = 'https://viralvaghela.com'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/portfolio.png"/></a>
 <a href = 'https://www.instagram.com/viral_codes'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/instagram.svg"/></a>
