@@ -19,7 +19,7 @@
 - 📄 Know about my experiences [Click Here for Resume](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
 - ⚡ Fun fact **My name is V+ral but you can also call me vaayral 😁**
-<p align="left"> <a href="https://twitter.com/viral_vaghela_" target="blank"><img src="https://img.shields.io/twitter/follow/viral_vaghela_?logo=twitter&style=for-the-badge" alt="viral_codes" /></a> </p>
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/0x13370x?logo=twitter&style=for-the-badge" alt="viral_codes" /></a> </p>
 
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
@@ -37,7 +37,7 @@
 <a href= https://github.com/viralvaghela?tab=repositories&q=&type=&language=python&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
 
 
-<a href = 'https://www.twitter.com/viral_vaghela_'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a>
+<a href = 'https://www.twitter.com/0x13370x'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a>
 <a href = 'https://viralvaghela.com'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/portfolio.png"/></a>
 <a href = 'https://www.instagram.com/viral_codes'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/instagram.svg"/></a>
 <a href = 'https://dev.to/viralvaghela'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg"/></a>
